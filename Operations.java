@@ -10,16 +10,10 @@ public class Operations {
 
     public static void main(String[] args) {
 
-        int a = 10, b = 5;
+        double number = 1.3;
 
-        System.out.println(a+b);
-        System.out.println(a*b);
-        System.out.println(a/b);
-        System.out.println(a-b);
+        double result = Math.sqrt(number);
 
-        System.out.println(option(6));
-
-        System.out.println("row in the branch 'newbranch'");
 
         System.out.println("new row");
     }
