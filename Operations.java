@@ -19,10 +19,9 @@ public class Operations {
 
         System.out.println(option(6));
 
-        System.out.println("new nessage");
+        System.out.println("row in the branch 'newbranch'");
 
-        System.out.println("additional row");
-
+        System.out.println("new row");
     }
 
 }
