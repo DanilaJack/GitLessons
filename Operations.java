@@ -14,6 +14,8 @@ public class Operations {
 
         double result = Math.sqrt(number);
 
+
+        System.out.println("new row");
     }
 
 }
