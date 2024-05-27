@@ -18,6 +18,8 @@ public class Operations {
         System.out.println(a-b);
 
         System.out.println(option(6));
+
+        System.out.println("row in the branch 'newbranch'");
     }
 
 }
